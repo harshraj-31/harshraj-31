@@ -127,17 +127,7 @@ Rebuilt and extended missing interactivity on an existing storefront template �
 
 ---
 
-## 📜 Certifications
 
-*Certifications will be added here as they are completed.*
-
----
-
-## 💻 Coding Profiles
-
-*Coding profile links (LeetCode, GeeksforGeeks, HackerRank, CodeChef) coming soon.*
-
----
 
 ## 📊 GitHub Analytics
 
