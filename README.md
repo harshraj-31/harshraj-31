@@ -81,19 +81,53 @@ I care about writing organized, maintainable code and treating every project —
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>📋 Algo Tracker</b> — Vanilla JavaScript Kanban Productivity App</summary>
+<summary><b>📋 AlgoTracker-Pro</b> — Algorithm Practice & Productivity Tracker</summary>
 <br/>
 
-A Kanban-style productivity web app built in vanilla JavaScript, featuring drag-and-drop task management, a built-in timer, analytics, and keyboard shortcuts — refined through iterative code review cycles.
+A modern algorithm practice tracker combining task management with a Kanban board, Pomodoro timer, and progress analytics.
 
 | Category | Details |
 |---|---|
-| **Stack** | HTML, CSS, Vanilla JavaScript |
-| **Core Features** | Drag-and-drop board, task timer, analytics view, keyboard shortcuts, light/dark theme |
-| **Engineering Practice** | Iteratively improved through structured, single-change review cycles |
-| **Repository** | [github.com/harshraj-31](https://github.com/harshraj-31) |
+| **Stack** | HTML, CSS, JavaScript |
+| **Core Features** | Kanban-style task board, Pomodoro timer, progress analytics, LocalStorage persistence |
+| **Engineering Practice** | Iteratively refined through structured, single-change review cycles |
+| **Repository** | [github.com/harshraj-31/AlgoTracker-Pro](https://github.com/harshraj-31/AlgoTracker-Pro) |
 
-Built entirely with vanilla JS to strengthen core DOM manipulation and state-management skills without relying on frameworks — including debugging and fixing theme-consistency issues across light and dark modes.
+Built entirely with vanilla JS to strengthen core DOM manipulation and state-management skills without relying on frameworks — including a full Pomodoro timer flow and persistent analytics across sessions.
+
+</details>
+
+<details>
+<summary><b>💎 Aura Elite Ecommerce</b> — Luxury Crystal Bracelet Storefront</summary>
+<br/>
+
+A modern luxury eCommerce website for a crystal bracelet brand, with a fully responsive shopping experience.
+
+| Category | Details |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Core Features** | Responsive design, shopping cart, wishlist, authentication UI, checkout flow |
+| **Design Focus** | Premium, luxury-brand visual styling paired with standard e-commerce interaction patterns |
+| **Repository** | [github.com/harshraj-31/aura-elite-ecommerce](https://github.com/harshraj-31/aura-elite-ecommerce) |
+
+Built as a front-end-complete storefront — covering the full shopping journey from browsing and wishlisting to cart and checkout — with an emphasis on a premium, elevated aesthetic.
+
+</details>
+
+<details>
+<summary><b>✨ Gemini AI Web Interface</b> — AI Chat Interface powered by the Google Gemini API</summary>
+<br/>
+
+A modern AI chat interface inspired by Google Gemini, integrating directly with the Google Gemini API for live conversational responses.
+
+| Category | Details |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript, Google Gemini API |
+| **Core Features** | Real-time AI chat interface, Gemini-inspired UI/UX |
+| **Integration** | Direct API integration with Google's Gemini model |
+| **Repository** | [github.com/harshraj-31/gemini-ai-web-interface](https://github.com/harshraj-31/gemini-ai-web-interface) |
+
+Built to get hands-on experience consuming a real LLM API from the front end — connecting UI state to live model responses in a clean, Gemini-styled chat interface.
 
 </details>
 
@@ -108,7 +142,7 @@ A coffee shop storefront website with a full front-end shopping experience — f
 | **Stack** | HTML, CSS, JavaScript, LocalStorage |
 | **Core Features** | Product search, modals, persistent cart, checkout flow, local authentication, email-based bill delivery |
 | **Data Handling** | Client-side persistence via LocalStorage for cart and auth state |
-| **Repository** | [github.com/harshraj-31](https://github.com/harshraj-31) |
+| **Repository** | [github.com/harshraj-31/CofeeBeansShop](https://github.com/harshraj-31/CofeeBeansShop) |
 
 Rebuilt and extended missing interactivity on an existing storefront template — adding a functional cart system, custom SVG assets, a full checkout flow, and a lightweight authentication system, all without a backend.
 
@@ -127,14 +161,24 @@ Rebuilt and extended missing interactivity on an existing storefront template �
 
 ---
 
+## 📜 Certifications
 
+*Certifications will be added here as they are completed.*
+
+---
+
+## 💻 Coding Profiles
+
+*Coding profile links (LeetCode, GeeksforGeeks, HackerRank, CodeChef) coming soon.*
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshraj-31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=harshraj-31&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshraj-31&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=harshraj-31&count_private=true&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
 
 <br/>
 
@@ -177,7 +221,9 @@ Learning:
   - Modern JavaScript patterns
 
 Building:
-  - Algo Tracker (Kanban productivity app)
+  - AlgoTracker-Pro (Kanban + Pomodoro productivity tracker)
+  - Aura Elite Ecommerce (luxury bracelet storefront)
+  - Gemini AI Web Interface (Gemini API chat app)
   - CofeeBeansShop (e-commerce storefront)
 
 Exploring:
