@@ -131,9 +131,6 @@ Built to get hands-on experience consuming a real LLM API from the front end —
 
 </details>
 
-<details>
-<summary><b>☕ CofeeBeansShop</b> — Coffee Shop E-Commerce Website</summary>
-<br/>
 
 A coffee shop storefront website with a full front-end shopping experience — from browsing and search to cart, checkout, and order confirmation.
 
