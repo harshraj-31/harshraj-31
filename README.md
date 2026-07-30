@@ -60,7 +60,7 @@ I care about writing organized, maintainable code and treating every project —
 
 **Backend & Databases**
 
-<p> <img src="https://skillicons.dev/icons?i=java,python" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
 
 **Tooling**
 
@@ -150,16 +150,6 @@ Rebuilt and extended missing interactivity on an existing storefront template �
 
 ---
 
-## 🎓 Education
-
-**Master of Computer Applications (MCA) — AI/ML Specialization**
-*Currently Pursuing*
-
-- Specializing in Artificial Intelligence and Machine Learning
-- Coursework spanning Python, Java, C, and JavaScript
-- Applying classroom learning directly to personal full-stack projects
-
----
 
 
 
