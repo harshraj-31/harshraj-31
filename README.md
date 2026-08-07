@@ -60,7 +60,7 @@ I care about writing organized, maintainable code and treating every project —
 
 **Backend & Databases**
 
-<p> <img src="https://skillicons.dev/icons?i=sql" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,mongodb" /> </p>
 
 **Tooling**
 
@@ -139,7 +139,7 @@ A coffee shop storefront website with a full front-end shopping experience — f
 | **Stack** | HTML, CSS, JavaScript, LocalStorage |
 | **Core Features** | Product search, modals, persistent cart, checkout flow, local authentication, email-based bill delivery |
 | **Data Handling** | Client-side persistence via LocalStorage for cart and auth state |
-| **Repository** | [github.com/harshraj-31/CofeeBeansShop](https://github.com/harshraj-31/CofeeBeansShop) |
+
 
 Rebuilt and extended missing interactivity on an existing storefront template — adding a functional cart system, custom SVG assets, a full checkout flow, and a lightweight authentication system, all without a backend.
 
