@@ -60,7 +60,7 @@ I care about writing organized, maintainable code and treating every project —
 
 **Backend & Databases**
 
-<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=sql" /> </p>
 
 **Tooling**
 
