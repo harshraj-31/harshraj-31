@@ -52,15 +52,15 @@ I care about writing organized, maintainable code and treating every project —
 
 **Languages**
 
-<p> <img src="https://skillicons.dev/icons?i=python,java,c,js" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,java,c,js,dart" /> </p>
 
 **Frontend**
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,flutter" /> </p>
 
 **Backend & Databases**
 
-<p> <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,mongodb" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,dotnet" /> </p>
 
 **Tooling**
 
