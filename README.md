@@ -64,7 +64,7 @@ I care about writing organized, maintainable code and treating every project —
 
 **Tooling**
 
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,visualstudio" /> </p>
 
 ---
 
