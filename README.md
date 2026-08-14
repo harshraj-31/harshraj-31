@@ -132,14 +132,6 @@ Built to get hands-on experience consuming a real LLM API from the front end —
 </details>
 
 
-A coffee shop storefront website with a full front-end shopping experience — from browsing and search to cart, checkout, and order confirmation.
-
-| Category | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript, LocalStorage |
-| **Core Features** | Product search, modals, persistent cart, checkout flow, local authentication, email-based bill delivery |
-| **Data Handling** | Client-side persistence via LocalStorage for cart and auth state |
-
 
 Rebuilt and extended missing interactivity on an existing storefront template — adding a functional cart system, custom SVG assets, a full checkout flow, and a lightweight authentication system, all without a backend.
 
@@ -171,7 +163,6 @@ Building:
   - AlgoTracker-Pro (Kanban + Pomodoro productivity tracker)
   - Aura Elite Ecommerce (luxury bracelet storefront)
   - Gemini AI Web Interface (Gemini API chat app)
-  - CofeeBeansShop (e-commerce storefront)
 
 Exploring:
   - Full stack architecture and backend development
