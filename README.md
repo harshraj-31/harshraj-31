@@ -98,7 +98,7 @@ Built entirely with vanilla JS to strengthen core DOM manipulation and state-man
 </details>
 
 <details>
-<summary><b>💎 Aura Elite Ecommerce</b> — Luxury Crystal Bracelet Storefront</summary>
+<summary><b>💎 Arth Elite Ecommerce</b> — Luxury Crystal Bracelet Storefront</summary>
 <br/>
 
 A modern luxury eCommerce website for a crystal bracelet brand, with a fully responsive shopping experience.
@@ -108,7 +108,7 @@ A modern luxury eCommerce website for a crystal bracelet brand, with a fully res
 | **Stack** | HTML, CSS, JavaScript |
 | **Core Features** | Responsive design, shopping cart, wishlist, authentication UI, checkout flow |
 | **Design Focus** | Premium, luxury-brand visual styling paired with standard e-commerce interaction patterns |
-| **Repository** | [github.com/harshraj-31/aura-elite-ecommerce](https://github.com/harshraj-31/aura-elite-ecommerce) |
+| **Repository** | [github.com/harshraj-31/arth-elite-ecommerce](https://github.com/harshraj-31/arth-elite-ecommerce) |
 
 Built as a front-end-complete storefront — covering the full shopping journey from browsing and wishlisting to cart and checkout — with an emphasis on a premium, elevated aesthetic.
 
@@ -161,7 +161,7 @@ Learning:
 
 Building:
   - AlgoTracker-Pro (Kanban + Pomodoro productivity tracker)
-  - Aura Elite Ecommerce (luxury bracelet storefront)
+  - Arth Elite Ecommerce (luxury bracelet storefront)
   - Gemini AI Web Interface (Gemini API chat app)
 
 Exploring:
