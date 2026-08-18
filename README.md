@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harshrajsinh%20Zala&fontSize=48&fontColor=C9B8FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0800,50:3d1400,100:2b0d00&height=220&section=header&text=Harshrajsinh%20Zala&fontSize=48&fontColor=FDBA74&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Currently+pursuing+MCA+(AI%2FML);Python+%7C+Java+%7C+C+%7C+JavaScript+Developer;Building+Full+Stack+Web+Applications;Exploring+the+world+of+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=650&lines=Currently+pursuing+MCA+(AI%2FML);Python+%7C+Java+%7C+C+%7C+JavaScript+Developer;Building+Full+Stack+Web+Applications;Exploring+the+world+of+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![MCA Student](https://img.shields.io/badge/MCA-AI%2FML%20Specialization-6D28D9?style=flat-square&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-4C1D95?style=flat-square&labelColor=1a1a2e)
+![MCA Student](https://img.shields.io/badge/MCA-AI%2FML%20Specialization-EA580C?style=flat-square&labelColor=1a1a1a)
+![Location](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-9A3412?style=flat-square&labelColor=1a1a1a)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/harshrajsinh-zala-118058244)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:zalaharshrajsinh87@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/harshraj-31)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F97316?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/harshrajsinh-zala-118058244)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:zalaharshrajsinh87@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-EA580C?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/harshraj-31)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshraj-31&style=flat-square&color=8b5cf6&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/harshraj-31?style=flat-square&color=8b5cf6&labelColor=1a1a2e&label=Followers)
-![Stars](https://img.shields.io/github/stars/harshraj-31?style=flat-square&color=8b5cf6&labelColor=1a1a2e&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=harshraj-31&style=flat-square&color=f97316&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/harshraj-31?style=flat-square&color=f97316&labelColor=1a1a1a&label=Followers)
+![Stars](https://img.shields.io/github/stars/harshraj-31?style=flat-square&color=f97316&labelColor=1a1a1a&label=Stars)
 
 </div>
 
@@ -145,7 +145,7 @@ Rebuilt and extended missing interactivity on an existing storefront template â€
 ## ðŸ“ˆ Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshraj-31&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9b8ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshraj-31&theme=react-dark&hide_border=true&bg_color=0d1117&color=f97316&line=dc2626&point=fed7aa" width="100%"/>
 </div>
 
 ---
@@ -180,9 +180,9 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-zalaharshrajsinh87-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:zalaharshrajsinh87@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshrajsinh--zala-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/harshrajsinh-zala-118058244)
-[![GitHub](https://img.shields.io/badge/GitHub-harshraj--31-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/harshraj-31)
+[![Gmail](https://img.shields.io/badge/Gmail-zalaharshrajsinh87-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:zalaharshrajsinh87@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshrajsinh--zala-F97316?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/harshrajsinh-zala-118058244)
+[![GitHub](https://img.shields.io/badge/GitHub-harshraj--31-EA580C?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/harshraj-31)
 
 </div>
 
@@ -192,6 +192,6 @@ Open To:
 
 *"Consistency in small commits builds mastery over time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0d00,50:3d1400,100:1a0800&height=120&section=footer" width="100%"/>
 
 </div>
