@@ -133,7 +133,6 @@ Built to get hands-on experience consuming a real LLM API from the front end —
 
 ---
 
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -151,6 +150,7 @@ Built to get hands-on experience consuming a real LLM API from the front end —
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshraj-31&theme=dark&hide_border=false&bg_color=0d1117&color=f97316&line=dc2626&point=fed7aa" alt="Contribution Activity Graph" width="100%"/>
 </div>
+
 ---
 
 ## 🎯 Current Focus
