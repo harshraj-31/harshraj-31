@@ -145,7 +145,7 @@ Rebuilt and extended missing interactivity on an existing storefront template â€
 ## ðŸ“ˆ Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshraj-31&theme=react-dark&hide_border=true&bg_color=0d1117&color=f97316&line=dc2626&point=fed7aa" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshraj-31&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316" width="100%"/>
 </div>
 
 ---
