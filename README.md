@@ -133,18 +133,16 @@ Built to get hands-on experience consuming a real LLM API from the front end —
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=harshraj-31&show_icons=true&theme=dark&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316&border_color=1a1a1a" alt="GitHub Stats" width="100%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshraj-31&show_icons=true&theme=dark&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316&border_color=1a1a1a&hide_border=false)
 
-### Contribution Streak
-<img src="https://streak-stats.demolab.com?user=harshraj-31&theme=dark&ring=f97316&currStreakNum=f97316&currStreakLabel=dc2626&sideLabels=f97316&border=1a1a1a" alt="GitHub Streak Stats" width="100%"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=harshraj-31&theme=dark&ring=f97316&currStreakNum=f97316&currStreakLabel=dc2626&sideLabels=f97316)
 
-### Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshraj-31&theme=dark&hide_border=true&bg_color=0d1117&color=f97316&line=dc2626&point=fed7aa&type=line" alt="GitHub Activity Graph" width="100%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshraj-31&theme=dark&hide_border=false&bg_color=0d1117&color=f97316&line=dc2626&point=fed7aa)
 
 </div>
 
