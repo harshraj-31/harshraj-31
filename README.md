@@ -137,9 +137,6 @@ Built to get hands-on experience consuming a real LLM API from the front end —
 
 <div align="center">
 
-<a href="https://github.com/harshraj-31">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshraj-31&show_icons=true&theme=dark&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316&border_color=1a1a1a&hide_border=false" alt="GitHub Stats"/>
-</a>
 
 <a href="https://github.com/harshraj-31">
   <img height="180em" src="https://streak-stats.demolab.com?user=harshraj-31&theme=dark&ring=f97316&currStreakNum=f97316&currStreakLabel=dc2626&sideLabels=f97316" alt="GitHub Streak"/>
