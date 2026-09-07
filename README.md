@@ -137,13 +137,15 @@ Built to get hands-on experience consuming a real LLM API from the front end —
 
 <div align="center">
 
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=harshraj-31&theme=redental&hide_border=true&bg_color=1a1a1a&color=f97316&line=ea580c&point=fdba74" width="100%"/>
+
+<br/>
 
 <a href="https://github.com/harshraj-31">
   <img height="180em" src="https://streak-stats.demolab.com?user=harshraj-31&theme=dark&ring=f97316&currStreakNum=f97316&currStreakLabel=dc2626&sideLabels=f97316" alt="GitHub Streak"/>
 </a>
 
 </div>
-
 
 ---
 
