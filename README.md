@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0800,50:3d1400,100:2b0d00&height=220&section=header&text=Harshrajsinh%20Zala&fontSize=48&fontColor=FDBA74&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e1f,50:064e3b,100:022c1e&height=220&section=header&text=Harshrajsinh%20Zala&fontSize=48&fontColor=6EE7B7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=650&lines=Currently+pursuing+MCA+(AI%2FML);Python+%7C+Java+%7C+C+%7C+JavaScript+Developer;Building+Full+Stack+Web+Applications;Exploring+the+world+of+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=600&color=10B981&center=true&vCenter=true&width=650&lines=Currently+pursuing+MCA+(AI%2FML);Python+%7C+Java+%7C+C+%7C+JavaScript+Developer;Building+Full+Stack+Web+Applications;Exploring+the+world+of+Machine+Learning;Turning+ideas+into+code%2C+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![MCA Student](https://img.shields.io/badge/MCA-AI%2FML%20Specialization-EA580C?style=flat-square&labelColor=1a1a1a)
-![Location](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-9A3412?style=flat-square&labelColor=1a1a1a)
+![MCA Student](https://img.shields.io/badge/MCA-AI%2FML%20Specialization-059669?style=flat-square&labelColor=0d1f18)
+![Location](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-065F46?style=flat-square&labelColor=0d1f18)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F97316?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/harshrajsinh-zala-118058244)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:zalaharshrajsinh87@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-EA580C?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/harshraj-31)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1f18)](https://www.linkedin.com/in/harshrajsinh-zala-118058244)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1f18)](mailto:zalaharshrajsinh87@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-047857?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f18)](https://github.com/harshraj-31)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshraj-31&style=flat-square&color=f97316&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/harshraj-31?style=flat-square&color=f97316&labelColor=1a1a1a&label=Followers)
-![Stars](https://img.shields.io/github/stars/harshraj-31?style=flat-square&color=f97316&labelColor=1a1a1a&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=harshraj-31&style=flat-square&color=10b981&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/harshraj-31?style=flat-square&color=10b981&labelColor=0d1f18&label=Followers)
+![Stars](https://img.shields.io/github/stars/harshraj-31?style=flat-square&color=10b981&labelColor=0d1f18&label=Stars)
 
 </div>
 
@@ -80,6 +80,10 @@ I care about writing organized, maintainable code and treating every project —
 
 ## 🚀 Featured Projects
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=6EE7B7&center=true&vCenter=true&width=400&lines=%24+ls+~%2Fprojects" alt="Terminal" />
+</div>
+
 <details>
 <summary><b>📋 AlgoTracker-Pro</b> — Algorithm Practice & Productivity Tracker</summary>
 <br/>
@@ -137,12 +141,12 @@ Built to get hands-on experience consuming a real LLM API from the front end —
 
 <div align="center">
 
-<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=harshraj-31&theme=redental&hide_border=true&bg_color=1a1a1a&color=f97316&line=ea580c&point=fdba74" width="100%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=harshraj-31&theme=react-dark&hide_border=true&bg_color=0d1f18&color=10b981&line=059669&point=6ee7b7" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/harshraj-31">
-  <img height="180em" src="https://streak-stats.demolab.com?user=harshraj-31&theme=dark&ring=f97316&currStreakNum=f97316&currStreakLabel=dc2626&sideLabels=f97316" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=harshraj-31&theme=dark&background=0d1f18&ring=10b981&fire=059669&currStreakNum=10b981&currStreakLabel=059669&sideLabels=10b981" alt="GitHub Streak"/>
 </a>
 
 </div>
@@ -150,6 +154,10 @@ Built to get hands-on experience consuming a real LLM API from the front end —
 ---
 
 ## 🎯 Current Focus
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=6EE7B7&center=true&vCenter=true&width=400&lines=%24+cat+current_focus.yaml" alt="Terminal" />
+</div>
 
 ```yaml
 Learning:
@@ -178,9 +186,9 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-zalaharshrajsinh87-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:zalaharshrajsinh87@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshrajsinh--zala-F97316?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/harshrajsinh-zala-118058244)
-[![GitHub](https://img.shields.io/badge/GitHub-harshraj--31-EA580C?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/harshraj-31)
+[![Gmail](https://img.shields.io/badge/Gmail-zalaharshrajsinh87-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1f18)](mailto:zalaharshrajsinh87@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshrajsinh--zala-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1f18)](https://www.linkedin.com/in/harshrajsinh-zala-118058244)
+[![GitHub](https://img.shields.io/badge/GitHub-harshraj--31-047857?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f18)](https://github.com/harshraj-31)
 
 </div>
 
@@ -190,6 +198,6 @@ Open To:
 
 *"Consistency in small commits builds mastery over time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0d00,50:3d1400,100:1a0800&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c1e,50:064e3b,100:052e1f&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
